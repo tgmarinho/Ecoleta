@@ -160,7 +160,7 @@ $ npm run start
 
 ## 📝 Licença
 
-Este projeto esta sobe a licença MIT.
+Este projeto está sobre a licença MIT.
 
 Feito com ❤️ por Thiago Marinho 👋🏽 [Entre em contato!](https://www.linkedin.com/in/tgmarinho/)
 
